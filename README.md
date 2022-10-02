@@ -1,3 +1,3 @@
 # quete-5
-exercie
+LOCAL
 merge and conflicts
