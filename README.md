@@ -1,2 +1,3 @@
 # quete-5
-exercice
+exercie
+merge and conflicts
